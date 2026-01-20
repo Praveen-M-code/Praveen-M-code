@@ -15,7 +15,9 @@
 
 ## I code in
 <p>
-  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nextjs,html,css,bootstrap,js,ts,jquery,react,wordpress,mysql&theme=light" />
+  </a>
 </p>
 
 ## IDE and Tools I Use
