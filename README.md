@@ -1,9 +1,8 @@
 # Hi, I’m Praveen
 
-- 🔭 I'm a Software Engineer
-- 👀 I’m interested in exploring new technologies.
-- ⚡ I’m currently learning advanced Java programming.
-- 📫 How to reach me: [praveenmanjunathanp@gmail.com](mailto:praveenmanjunathanp@gmail.com)
+- I'm a Software Engineer
+- I’m interested in exploring new technologies.
+- How to reach me: [praveenmanjunathanp@gmail.com](mailto:praveenmanjunathanp@gmail.com)
 
 
 
